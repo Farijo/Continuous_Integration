@@ -5,13 +5,13 @@ package farijo.com.continuous_integration;
  */
 
 public class User {
-    private String name;
+    private String m_name;
 
     public String getName() {
-        return name;
+        return m_name;
     }
 
     public void setName(String name) {
-        this.name = name;
+        this.m_name = name;
     }
 }
